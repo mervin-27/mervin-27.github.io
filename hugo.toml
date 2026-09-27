@@ -1,0 +1,90 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Mervin Goklas Hamonangan'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+pygmentsUseClasses = true
+
+[minify]
+  disableXML = true
+
+[params]
+  env = 'production'
+  title = 'Mervin Goklas Hamonangan'
+  description = 'Economist — macroeconomics, development, and political economy'
+  keywords = ['economics', 'macroeconomics', 'development', 'political economy', 'Indonesia']
+  author = 'Mervin Goklas Hamonangan'
+  DateFormat = 'January 2006'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+  UseHugoToc = true
+  disableSpecial1stPost = true
+  math = true
+
+  [params.homeInfoParams]
+    Title = "Mervin Goklas Hamonangan"
+    Content = "Economist working on macroeconomics, development, and political economy. Sectoral author for LPEM FEB UI's Indonesia Economic Outlook."
+
+  [[params.socialIcons]]
+    name = 'email'
+    url = 'mailto:mervin.goklas@gmail.com'
+
+  [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://www.linkedin.com/in/mervingoklas/'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[[menu.main]]
+  identifier = 'papers'
+  name = 'Papers'
+  url = '/papers/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'projects'
+  name = 'Projects'
+  url = '/projects/'
+  weight = 15
+
+[[menu.main]]
+  identifier = 'writing'
+  name = 'Writing'
+  url = '/writing/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'cv'
+  name = 'CV'
+  url = '/cv/'
+  weight = 30
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
