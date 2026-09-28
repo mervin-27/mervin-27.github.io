@@ -43,6 +43,10 @@ Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia, Jakarta, Indonesia
 - Assisted research, policy support, and collaborative learning for an initiative ensuring digital financial services drive economic development while lifting up marginalized populations
 - Merging and cleaning raw data, replicating graphs from academic journals for policy, web data scraping, assisted RCT training by J-PAL PIs for stakeholders, translation and proofread research outputs
 
+**Research Intern**
+Institute for Economic and Social Research, Universitas Indonesia, Jakarta, Indonesia · June 2021–August 2021
+- Resilience of MSMEs in the micro segment against the COVID-19 pandemic, for PT Bank Rakyat Indonesia
+
 **Project Consultant**
 Boston Consulting Group, Jakarta, Indonesia · June 2020–August 2020
 - Growth strategy project for a Certified B Corporation, sustainable biomaterial startup

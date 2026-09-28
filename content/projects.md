@@ -6,7 +6,7 @@ Selected advisory and research projects, spanning clients including Bank Indones
 
 ## Project Portfolio
 
-Projects since joining LPEM FEB UI (2022–present).
+Projects since joining LPEM FEB UI (2021–present).
 
 ### In Progress (2026)
 
@@ -65,6 +65,11 @@ Short Term Consultant · July–December 2024
 
 **Quantitative Targets for the Implementation of Making Indonesia 4.0** — Ministry of Industry · 2022
 
+### 2021
+
+**Resilience of MSMEs in the Micro Segment Against the COVID-19 Pandemic** — PT Bank Rakyat Indonesia
+Research Intern · June–August 2021
+
 ### Trainings
 
 **VU Regional Intensive Program 2025** — Regional Science Association International
@@ -76,8 +81,6 @@ Deputy Project Lead · November 2024
 ## Prior Engagements
 
 Before joining LPEM FEB UI.
-
-**Resilience of MSMEs in the Micro Segment Against the COVID-19 Pandemic** — PT Bank Rakyat Indonesia · 2021
 
 **Digital Financial Services and Economic Development Initiative** — J-PAL Southeast Asia · 2021
 

@@ -26,6 +26,9 @@ Institute for Economic and Social Research, Universitas Indonesia · August 2022
 **Policy and Research Intern**
 Abdul Latif Jameel Poverty Action Lab (J-PAL) Southeast Asia · July–October 2021
 
+**Research Intern**
+Institute for Economic and Social Research, Universitas Indonesia · June–August 2021
+
 ## Education
 
 **MSc in Economics** — Merit; Extended Essay: Distinction
