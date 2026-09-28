@@ -21,7 +21,8 @@ Institute for Economic and Social Research, Universitas Indonesia, Jakarta, Indo
 
 **Teaching Assistant**
 Faculty of Economics and Business, Universitas Indonesia, Depok, Indonesia · September 2020–Now
-- Classes assisted: Advanced Microeconomics, Advanced Macroeconomics, Econometrics for Policy
+- Bachelor's: Advanced Microeconomics, Advanced Macroeconomics, Intermediate Macroeconomics, Development Economics, Mathematics for Economics and Business, Advanced International Economics
+- Master's: Econometrics for Policy, Macroeconomic Theory and Policy, Macroeconomics Matriculation Class (Economic Planning and Development Policy); Microeconomics Theory 1 (Economics)
 - Collaborated with Iwan Jaya Azis, Ph.D., Professor at Cornell University; Teguh Dartanto, Ph.D., Dean
 
 **Short Term Consultant**

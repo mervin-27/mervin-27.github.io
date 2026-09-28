@@ -55,8 +55,13 @@ Studies whether Dutch colonial school expansion under the Ethical Policy shaped 
 
 ## Teaching
 
-Advanced Microeconomics · Advanced Macroeconomics · Econometrics for Policy
 Faculty of Economics and Business, Universitas Indonesia
+
+**Bachelor's:** Advanced Microeconomics, Advanced Macroeconomics, Intermediate Macroeconomics, Development Economics, Mathematics for Economics and Business, Advanced International Economics
+
+**Master's, Economic Planning and Development Policy:** Econometrics for Policy, Macroeconomic Theory and Policy, Macroeconomics Matriculation Class
+
+**Master's, Economics:** Microeconomics Theory 1
 
 ## Service
 
